@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NFA Based Document Text Search</title>
+  <!-- Bootstrap Style -->
+  <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
+  <!-- Bootstrap Style End -->
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/style/m1style.css">
+  <!-- Custom CSS END -->
+</head>
+
+<body>
+  <main>
+    <div class="header">
+      <h1>NFA Based Document Text Search</h1>
+      <p>By Group 6 & 8 - AI-A B2</p>
+    </div>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col">
+          <div class="card shadow">
+            <div class="card-body">
+              <h3 class="font-weight-bold">
+                Please enter the word you want to search for
+              </h3>
+              <form id="formSearch" class="form-inline mb-4" onsubmit="return false;">
+                <input id="inputSearch" name="inputSearch" class="form-control mr-2" type="text" placeholder="Search"
+                  aria-label="Search" autocomplete="off">
+                <input id="awal" name="inputSearch" class="form-control mr-2" type="number" placeholder="Range Start"
+                  aria-label="Search" autocomplete="off" required>
+                <input id="akhir" name="inputSearch" class="form-control mr-2" type="number" placeholder="Range End"
+                  aria-label="Search" autocomplete="off" required>
+                <button id="submitSearch" class="btn btn-elegant btn-rounded btn-sm my-0" type="submit">Search</button>
+              </form>
+              <div class="row">
+                <div class="col-5">
+                  <div id="quintupleNFA"></div>
+                </div>
+                <div class="col-6 offset-1">
+                  <div id="resultDoc">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+
+  <!-- Jquery -->
+  <script src="vendor/jquery/jquery-3.5.1.min.js"></script>
+  <!-- Jquery End -->
+
+  <!-- Bootstrap Script -->
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <!-- Bootstrap Script End -->
+
+  <!-- Custom Script For Module 1 -->
+  <script src="js/module1/script.js"></script>
+  <!-- Custom Script 1 End -->
+</body>
+
+</html>
