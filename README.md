@@ -6,7 +6,7 @@ This project with objective of “REGEX to NFA  convertor” is made by me for t
 --------
 
 1.  Open the project in a code editor
-2.  Run the `server.js` file to start the server
+2.  Run the `server.js` file to start the server (command : `nodemon 'server.js'`/ `node server.js`)
 3.  Open a web browser and navigate to `http://localhost:5050` to use the tool
 
 🤝 
