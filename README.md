@@ -10,7 +10,7 @@ Module 1: Document Text Search using NFA
 -------------------------------------------
 A tool for searching for specific text in a document using Non-deterministic Finite Automaton (NFA).
 
-Module 2: Regex to NFA Convertor+Visualizer
+Module 2: Regex to NFA Convertor + Visualizer
 ----------------------------------------------
 A tool for converting Regular Expressions to Non-deterministic automata (NFA) and visualizing the resulting automaton.
 
@@ -78,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 🤝 <h2>Contributors</h2>
 1. RITIK RAJ (RA2011003011264)
+2. SANYA RASTOGI (RA2011003011288)
