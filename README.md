@@ -19,7 +19,7 @@ A tool for converting Regular Expressions to Non-deterministic automata (NFA) an
 --------
 
 1.  Open the project in a code editor
-2.  Run the `server.js` file to start the server (command : `nodemon 'server.js'`/ `node server.js`)
+2.  Run the `server.js` file to start the server (command : `nodemon 'server.js'` / `node server.js`)
 3.  Open a web browser and navigate to `http://localhost:5050` to use the tool
 
 # Getting Started with Create React App
@@ -76,5 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-🤝 Contributors
+🤝 <h2>Contributors</h2>
 1. RITIK RAJ (RA2011003011264)
