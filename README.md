@@ -1,5 +1,5 @@
 # Regular Expression to Non-deterministic automata (NFA)
-This project with objective of “Search the word in the given document and Regular Expression to Non-deterministic automata(NFA) convertor” is made by me for the mini-project submission of Compiler Design course for 6th semester of my B.Tech. degree. This project and the whole source code is developed by myself, except for using some open-source libraries such as ReactJS, NodeJS, expressJS etc.
+This project with objective of “Search the word in the given text document and Regular Expression to Non-deterministic automata(NFA) convertor” is made by me for the mini-project submission of Compiler Design course for 6th semester of my B.Tech. degree. This project and the whole source code is developed by myself, except for using some open-source libraries such as ReactJS, NodeJS, expressJS etc.
 
 This project containing two modules:
 
