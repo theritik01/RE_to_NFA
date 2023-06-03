@@ -78,4 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 🤝 <h2>Contributors</h2>
 1. RITIK RAJ (RA2011003011264)
-2. SANYA RASTOGI (RA2011003011288)
